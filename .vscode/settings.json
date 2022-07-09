@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "uart.h": "c",
-        "pll.h": "c",
-        "tm4c123gh6pm.h": "c"
-    }
-}
